@@ -1,7 +1,7 @@
 # TicTacToe-Detection
 
 Description:
-The goal of this project was, given the images from /images directory detect the winner of tic-tac-toe game and draw a line that shows the winner of the game.
+The goal of this project was, given the images from /images directory detect the winner of tic-tac-toe game and draw a line that shows the winner of the game using only opencv methods ( no DL ).
 
 Example of initial image:
 ![](https://github.com/VladKriuch/TicTacToe-Detection/blob/master/images/tic_01.jpg)
